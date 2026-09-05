@@ -1,0 +1,10 @@
+bibtexparser==1.4.3
+requests>=2.31,<3
+urllib3>=2.0,<3
+
+# Tkinter Graphical User Interface (Python Standard Library & Tcl/Tk)
+# Note: Tkinter is part of Python's standard library.
+# If Tkinter is not enabled by default in your Python interpreter:
+# - On macOS (Homebrew): brew install python-tk
+# - On Ubuntu/Debian:    sudo apt-get install python3-tk
+# - On Fedora/RHEL:      sudo dnf install python3-tkinter
