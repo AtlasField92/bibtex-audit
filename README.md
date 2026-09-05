@@ -305,7 +305,7 @@ python -m unittest test_engine.py
 
 ## License & Contributing
 
-Ce projet est distribué sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+This project is distributed under the MIT License. See the LICENSE file for more details.
 
 Built for robust academic bibliography management and research manuscript preparation. Contributions and feedback are welcome!
 
